@@ -3,6 +3,7 @@
 LEMS, or "Legacy Edition Made Simple", is exactly that.
 bored of scrolling through files to open some nostalgia filled console minecraft? lets fix that. 
 drop in the directory, set your use, and hit play. need more help? A guide will be below.
+THE CODE SHOWN ON MASTER IS A TEMPLATE AND IS NOT LIKELY TO BE UP TO DATE WITH RELEASES. IT IS JUST TO DISPLAY THE CODE OF THE PROGRAM.
 
 --------Installation Guide--------
 
