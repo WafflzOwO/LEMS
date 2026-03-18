@@ -14,15 +14,18 @@ drop in the directory, set your use, and hit play. need more help? A guide will 
 --------FAQ--------
 
 Q. How do i change my skin?
+
 A. the provided minecraft version has a built in skin selector.
+
 Q. What does this do?
-A. As said in disclaimers.txt this is a low resource, python-made launcher for MCLE, designed to save users from complicated source code files. it does not download minecraft. it just runs it.
+
+A. As said in disclaimers.txt this is a low resource, python-made launcher for MCLE, designed to save users from complicated 
+source code files. it does not download minecraft. it just runs it.
+
 Q. How can i contact you?
+
 A. Submit an issue or email me: EMAILNOTIMPLEMENTEDYET
 
 --------How Its Made--------
 
-tkinter
-IDLE Python (3.13)
-pyinstaller to wrap it into an exe
-some other python libraries
+tkinter, IDLE Python (3.13), pyinstaller to wrap it into an exe, some other python libraries
