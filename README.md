@@ -16,7 +16,7 @@ drop in the directory, set your use, and hit play. need more help? A guide will 
 
 Q. How do i change my skin?
 
-A. the provided minecraft version has a built in skin selector.
+A. The provided minecraft version has a built in skin selector.
 
 Q. What does this do?
 
@@ -29,7 +29,7 @@ A. Submit an issue or email me: wafflzowo@gmail.com
 
 Q. Will you add to this?
 
-A. no, this is a barebones prototype. all suggestions and features will be added to v2.0, but 1.0 will have bug fixes.
+A. No, this is a barebones prototype. all suggestions and features will be added to v2.0, but 1.0 will have bug fixes.
 
 --------How Its Made--------
 
