@@ -35,12 +35,10 @@ A. No, this is a barebones prototype. all suggestions and features will be added
 
 tkinter, IDLE Python (3.13), pyinstaller to wrap it into an exe, some other python libraries, runs off of https://github.com/smartcmd/MinecraftConsoles, really smart project definitely check them out.
 
---------Gallery---------
-![Screenshot 2026-03-18 195830.png](assets/Screenshot 2026-03-18 195830.png)
 ---------Me--------
 
 Github: https://github.com/WafflzOwO
 
-Yt: [https://youtu.be/NXrQUx1vP68](https://www.youtube.com/@WafflzOwO)
+Yt: https://www.youtube.com/@WafflzOwO
 
 Too young for a buy me a coffee so: https://www.amazon.co.uk/hz/wishlist/ls/1RNW1M6MRP8W9?ref_=wl_share
