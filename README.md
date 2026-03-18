@@ -1,4 +1,4 @@
-# LEMS
+# LEMS V1.1 README
 
 LEMS, or "Legacy Edition Made Simple", is exactly that.
 bored of scrolling through files to open some nostalgia filled console minecraft? lets fix that. 
@@ -35,6 +35,8 @@ A. No, this is a barebones prototype. all suggestions and features will be added
 
 tkinter, IDLE Python (3.13), pyinstaller to wrap it into an exe, some other python libraries, runs off of https://github.com/smartcmd/MinecraftConsoles, really smart project definitely check them out.
 
+--------Gallery---------
+![Screenshot 2026-03-18 195830.png](assets/Screenshot 2026-03-18 195830.png)
 ---------Me--------
 
 Github: https://github.com/WafflzOwO
