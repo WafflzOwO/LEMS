@@ -1,0 +1,16 @@
+=DontSueMe disclaimer=
+im not mojang
+im not affiliated with Mojang or 4J
+im not 4J
+this software provides a platform for Mojang and 4J's game to run off of
+"Minecraft" is a registered copyright that isn't mine
+don't sue me
+I do not provide Minecraft files, and am not responsible for how they are obtained
+I simply offer a way to launch said Minecraft files
+I don't have the money for a lawyer
+- love, wafflz 
+
+=ai usage disclaimer=
+ai was NOT used in the production of the code used, but was used to assist in roadmapping and brainstorming ideas for the project. 
+sorry gang im a slow little gen z who doesn't know how to think idependently
+hope I can recover
