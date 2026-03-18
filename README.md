@@ -6,7 +6,7 @@ drop in the directory, set your use, and hit play. need more help? A guide will 
 
 --------Installation Guide--------
 
-1. Download Launcher.exe: https://github.com/WafflzOwO/LEMS-Legacy-Edition-Made-Simple/releases/tag/V1.0
+1. Download Launcher.exe: https://github.com/WafflzOwO/LEMS-Legacy-Edition-Made-Simple/releases/tag/V1.1
 2. Go to https://github.com/smartcmd/MinecraftConsoles and follow the installation instructions. Make note of where you save this. This is a nightly build of the leaked console source code which my program runs. very cool check them out 👍
 3. Open Launcher.exe, and use the directory chooser to navigate to where Minecraft Client.exe is stored.
 4. Set a username, and hit play!
