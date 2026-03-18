@@ -41,4 +41,4 @@ Github: https://github.com/WafflzOwO
 
 Yt: [https://youtu.be/NXrQUx1vP68](https://www.youtube.com/@WafflzOwO)
 
-Too young for a buy me a coffe so: https://www.amazon.co.uk/hz/wishlist/ls/1RNW1M6MRP8W9?ref_=wl_share
+Too young for a buy me a coffee so: https://www.amazon.co.uk/hz/wishlist/ls/1RNW1M6MRP8W9?ref_=wl_share
