@@ -5,7 +5,7 @@ bored of scrolling through files to open some nostalgia filled console minecraft
 drop in the directory, set your use, and hit play. need more help? A guide will be below.
 THE CODE SHOWN ON MASTER IS A TEMPLATE AND IS NOT LIKELY TO BE UP TO DATE WITH RELEASES. IT IS JUST TO DISPLAY THE CODE OF THE PROGRAM.
 
---------Installation Guide--------
+## Installation Guide
 
 1. Download Launcher.exe: https://github.com/WafflzOwO/LEMS-Legacy-Edition-Made-Simple/releases/tag/v1.1
 2. Go to https://github.com/smartcmd/MinecraftConsoles and follow the installation instructions. Make note of where you save this. This is a nightly build of the leaked console source code which my program runs. very cool check them out 👍
@@ -13,7 +13,7 @@ THE CODE SHOWN ON MASTER IS A TEMPLATE AND IS NOT LIKELY TO BE UP TO DATE WITH R
 4. Set a username, and hit play!
 5. for a step by step: https://youtu.be/NXrQUx1vP68
 
---------FAQ--------
+## FAQ
 
 Q. How do i change my skin?
 
@@ -32,18 +32,18 @@ Q. Will you add to this?
 
 A. No, this is a barebones prototype. all suggestions and features will be added to v2.0, but 1.0 will have bug fixes.
 
---------How Its Made--------
+## How Its Made
 
 tkinter, IDLE Python (3.13), pyinstaller to wrap it into an exe, some other python libraries, runs off of https://github.com/smartcmd/MinecraftConsoles, really smart project definitely check them out.
 
---------ROADMAP--------
+## ROADMAP
 
 bug fix and maybe add rudimentary skin selector on v1.x
 
 work on v2.0 and make it graphical and like... good
 
 
----------Me--------
+## Me
 
 Github: https://github.com/WafflzOwO
 
