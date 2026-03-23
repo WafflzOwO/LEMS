@@ -43,13 +43,7 @@ work on v2.0 and make it graphical and like... good
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=WafflzOwO%2FLEMS-Legacy-Edition-Made-Simple&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=WafflzOwO/LEMS-Legacy-Edition-Made-Simple&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=WafflzOwO/LEMS-Legacy-Edition-Made-Simple&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=WafflzOwO/LEMS-Legacy-Edition-Made-Simple&type=date&legend=top-left" />
- </picture>
-</a>
+[![Star History Chart](https://api.star-history.com/image?repos=WafflzOwO/LEMS-Legacy-Edition-Made-Simple&type=date&legend=top-left)](https://www.star-history.com/?repos=WafflzOwO%2FLEMS-Legacy-Edition-Made-Simple&type=date&legend=top-left)
 
 ## Me
 
